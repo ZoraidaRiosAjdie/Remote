@@ -1,0 +1,34 @@
+[{
+  "name":"A114","grupo": "DAW2","tutor":15,"materias":["DWES","DWEC","IW","DAW","IE"]
+ },
+ {
+  "name":"121","grupo": "DAW1","tutor":8,"materias":["PROGRA","BD","SIS","LM","FOL"]
+ },
+ {
+  "name":"B005","grupo": "EDINF2","tutor":17,"materias":["IAW","PROGRA","SISJ","FOL"]
+ },
+ {
+  "name":"A112","grupo": "AUTO1","tutor":5
+ },
+ {
+  "name":"A127","grupo": "ASIR1","tutor":2
+ },
+ {
+  "name":"B004","grupo": "TELECO1","tutor":27,"materias":["BASE1","INST1"]
+ },
+ {
+  "name":"A141","grupo": "SMR2","tutor":11
+ },
+ {
+  "name":"B008","grupo": "TELECO2","tutor":20,"materias":["INF1","COMP","FOL","IE"]
+ },
+ {
+  "name":"A128","grupo": "ASIR2","tutor":9,"materias":["IAW","ABD","ASIS","SI","IE"]
+ },
+ {
+  "name":"A125","grupo": "ADM2","tutor":12
+ },
+ {
+  "name":"A129","grupo": "ADM1","tutor":13,"materias":["FOL","IMP","INF"]
+ }
+]
